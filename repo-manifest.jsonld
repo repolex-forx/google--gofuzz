@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google/gofuzz/commit/5dfa3b7056d4abdb26b76c43d012ebe151e8a33c",
       "git:hexsha": "5dfa3b7056d4abdb26b76c43d012ebe151e8a33c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google/gofuzz/commit/f140a6486e521aad38f5917de355cbf147cc0496",
