@@ -1,0 +1,11 @@
+{
+  "org": "google",
+  "repo": "gofuzz",
+  "versions": [
+    {
+      "commit": "5dfa3b7056d4abdb26b76c43d012ebe151e8a33c",
+      "tag": "",
+      "parsed_at": "2026-11-10T04:00:54.927383+00:00"
+    }
+  ]
+}
