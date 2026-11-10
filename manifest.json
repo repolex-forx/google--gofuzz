@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "google",
+  "repo": "gofuzz",
+  "versions": [
+    {
+      "commit": "5dfa3b7056d4abdb26b76c43d012ebe151e8a33c",
+      "parsed_at": "2026-11-10T03:58:48.375713+00:00",
+      "filetree": "filetree/5dfa3b7056d4abdb26b76c43d012ebe151e8a33c.nq.gz",
+      "blobs": [
+        "blob/8ec4fe9e9725a847099325d5b886eaae40b2e660.nq.gz",
+        "blob/97c1b34fd5e6c7c6b45d61aba8a2d64d8430dd89.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/5bb365949691eb734286d4b8b3e2ff78acaf5d86.nq.gz",
+        "blob/e1a8f54f3744d9e0e5495de17b4096e94c38ee97.nq.gz",
+        "blob/5d280e9737394e319ec06b1ba3cccb8dd3b2f448.nq.gz",
+        "blob/a7297907a1eb4eb69884095375207314046afa19.nq.gz",
+        "blob/18c3fc4997076082d98131ea8c70f60ffb3bef58.nq.gz",
+        "blob/6e99d9d987b54a331c724ed8cfd9cdef7fb27b82.nq.gz",
+        "blob/9f9956d4a64febc2ee9a242e02728f4abd2dfa2b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
